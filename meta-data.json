@@ -1,5 +1,19 @@
 [
 	{
+		"title": "제목을 적어주세요.",
+		"href": "2021/06/23/20210623161124_제목을_적어주세요./",
+		"date": "2021-06-23T16:11:24Z",
+		"updated": "2021-06-23T07:23:19Z",
+		"src": "source/_posts/20210623161124_제목을_적어주세요..md",
+		"categories": [],
+		"tags": [
+			"태그1",
+			"태그2"
+		],
+		"cover": "https://cdn.pixabay.com/photo/2021/04/22/15/46/landscape-6199355_960_720.jpg",
+		"content": "부제목 입니다.1234(async () => {  const fs = require('fs ..."
+	},
+	{
 		"title": "Hello World",
 		"href": "2021/05/23/hello-world/",
 		"date": "2021-05-23T15:32:21Z",
@@ -7,7 +21,7 @@
 		"src": "source/_posts/hello-world.md",
 		"categories": [],
 		"tags": [],
-		"cover": "https://git-story.github.io/git-story-template/images/cover.jpg",
+		"cover": "https://cpostle.github.io/images/cover.jpg",
 		"content": "Welcome to Hexo! This is your very first post. Che ..."
 	}
 ]

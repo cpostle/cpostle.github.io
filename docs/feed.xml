@@ -3,19 +3,45 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Git Story</title>
-    <link>https://git-story.github.io/git-story-template/</link>
+    <title>cpostle</title>
+    <link>https://cpostle.github.io/</link>
     
-    <atom:link href="https://git-story.github.io/git-story-template/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://cpostle.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Fri, 28 May 2021 13:33:39 GMT</pubDate>
+    <pubDate>Wed, 23 Jun 2021 07:23:19 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
+      <title>제목을 적어주세요.</title>
+      <link>https://cpostle.github.io/2021/06/23/20210623161124_%EC%A0%9C%EB%AA%A9%EC%9D%84_%EC%A0%81%EC%96%B4%EC%A3%BC%EC%84%B8%EC%9A%94./</link>
+      <guid>https://cpostle.github.io/2021/06/23/20210623161124_%EC%A0%9C%EB%AA%A9%EC%9D%84_%EC%A0%81%EC%96%B4%EC%A3%BC%EC%84%B8%EC%9A%94./</guid>
+      <pubDate>Wed, 23 Jun 2021 16:11:24 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;부제목-입니다&quot;&gt;&lt;a href=&quot;#부제목-입니다&quot; class=&quot;headerlink&quot; title=&quot;부제목 입니다.&quot;&gt;&lt;/a&gt;부제목 입니다.&lt;/h2&gt;&lt;figure class=&quot;highlight js&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="부제목-입니다"><a href="#부제목-입니다" class="headerlink" title="부제목 입니다."></a>부제목 입니다.</h2><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">(<span class="keyword">async</span> () =&gt; &#123;</span><br><span class="line">  <span class="keyword">const</span> fs = <span class="built_in">require</span>(<span class="string">&#x27;fs&#x27;</span>);</span><br><span class="line">  <span class="built_in">console</span>.log(<span class="string">&#x27;코드입니다.&#x27;</span>);</span><br><span class="line">&#125;)();</span><br></pre></td></tr></table></figure><br><p><code>Ctrl + V</code> 로 이미지를 간단하게 업로드 할 수 있습니다.<br>직접 업로드하는 건 없습니다. 유머네요!</p><p><img src="https://cdn.jsdelivr.net/gh/cpostle/cpostle.github.io/docs/images/20210623161124/image0.png" alt="image0"></p>]]></content:encoded>
+      
+      
+      
+      <category domain="https://cpostle.github.io/tags/%ED%83%9C%EA%B7%B81/">태그1</category>
+      
+      <category domain="https://cpostle.github.io/tags/%ED%83%9C%EA%B7%B82/">태그2</category>
+      
+      
+      <comments>https://cpostle.github.io/2021/06/23/20210623161124_%EC%A0%9C%EB%AA%A9%EC%9D%84_%EC%A0%81%EC%96%B4%EC%A3%BC%EC%84%B8%EC%9A%94./#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>Hello World</title>
-      <link>https://git-story.github.io/git-story-template/2021/05/23/hello-world/</link>
-      <guid>https://git-story.github.io/git-story-template/2021/05/23/hello-world/</guid>
+      <link>https://cpostle.github.io/2021/05/23/hello-world/</link>
+      <guid>https://cpostle.github.io/2021/05/23/hello-world/</guid>
       <pubDate>Sun, 23 May 2021 15:32:21 GMT</pubDate>
       
         
@@ -30,7 +56,7 @@
       
       
       
-      <comments>https://git-story.github.io/git-story-template/2021/05/23/hello-world/#disqus_thread</comments>
+      <comments>https://cpostle.github.io/2021/05/23/hello-world/#disqus_thread</comments>
       
     </item>
     
